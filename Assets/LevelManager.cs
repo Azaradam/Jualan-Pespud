@@ -154,6 +154,11 @@ public class LevelManager : MonoBehaviour {
         SaveGame();
     }
 
+    public void ExitGame()
+    {
+        Application.Quit();
+    }
+
     
 
 
