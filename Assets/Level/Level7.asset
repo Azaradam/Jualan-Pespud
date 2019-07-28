@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b9003210881aa84783cbf3b69cbb994, type: 3}
+  m_Name: Level7
+  m_EditorClassIdentifier: 
+  levelIndex: 7
+  customer:
+  - {fileID: 1289888785152054, guid: a6919df4cc21e25448c60a1b6535cb1d, type: 2}
+  food:
+  - {fileID: 11400000, guid: 2535250d1474f724a91a50bd0cc42e68, type: 2}
+  - {fileID: 11400000, guid: 727a0c8095710c34bad24d9437a43fa8, type: 2}
+  - {fileID: 11400000, guid: 15a080297500c054887486d0201dfca8, type: 2}
+  star1: 600
+  star2: 700
+  star3: 800

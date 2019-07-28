@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a278a97ccd128604da434ddfa8031128, type: 3}
+  m_Name: Pizza
+  m_EditorClassIdentifier: 
+  iconIngredientRaw: {fileID: 21300000, guid: 27d997ea5e9eff14b8a4afc7fdc24606, type: 3}
+  iconIngredientReady: {fileID: 21300000, guid: 2e6bff45b5ff37f4ab7f6ec4cc90acf5,
+    type: 3}
+  iconIngredientBurned: {fileID: 21300000, guid: ad698e521e603d54381e3aac6852f322,
+    type: 3}
+  iconPlate: {fileID: 21300000, guid: 2a0bf97f4e028c84d945b0bec4bd4b7e, type: 3}
+  iconFood: {fileID: 21300000, guid: f4e66c869d1d9bf43b76747917ec2cab, type: 3}
+  foodName: Pitza
+  cookingTime: 5
+  price: 200

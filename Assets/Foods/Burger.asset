@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a278a97ccd128604da434ddfa8031128, type: 3}
+  m_Name: Burger
+  m_EditorClassIdentifier: 
+  iconIngredientRaw: {fileID: 21300000, guid: 7d95be1218826234eb0bfa385df19447, type: 3}
+  iconIngredientReady: {fileID: 21300000, guid: 6efb9b71719b6f244b930d6136486f63,
+    type: 3}
+  iconIngredientBurned: {fileID: 21300000, guid: e3150e704fb82b4488188a820e3bf5b4,
+    type: 3}
+  iconPlate: {fileID: 21300000, guid: c1299e475debb5f49826d16cadf83c1b, type: 3}
+  iconFood: {fileID: 21300000, guid: 6c17a6cb5d9a79a4f95308b8f4c14fae, type: 3}
+  foodName: Burger
+  cookingTime: 1
+  price: 50

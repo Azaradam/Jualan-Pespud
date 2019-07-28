@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b9003210881aa84783cbf3b69cbb994, type: 3}
+  m_Name: Level6
+  m_EditorClassIdentifier: 
+  levelIndex: 6
+  customer:
+  - {fileID: 1459512236579672, guid: b00eb032312ca1d47b890bb49f037b17, type: 2}
+  - {fileID: 1459512236579672, guid: 3090fead650022a4b8e4b1bc9643f5c9, type: 2}
+  - {fileID: 1459512236579672, guid: 309968fe31ae3d54e9aeda1b52276694, type: 2}
+  - {fileID: 1723739967607636, guid: 377c42d63ba9d8446a35437933427a6e, type: 2}
+  - {fileID: 1878620356487724, guid: 09c675b0160d5a24d94e0c5a0c5579a9, type: 2}
+  - {fileID: 1901313837325770, guid: 01039c76657d24b40940d8193da0eba2, type: 2}
+  - {fileID: 1289888785152054, guid: a6919df4cc21e25448c60a1b6535cb1d, type: 2}
+  food:
+  - {fileID: 11400000, guid: 2535250d1474f724a91a50bd0cc42e68, type: 2}
+  - {fileID: 11400000, guid: 727a0c8095710c34bad24d9437a43fa8, type: 2}
+  - {fileID: 11400000, guid: 15a080297500c054887486d0201dfca8, type: 2}
+  star1: 600
+  star2: 700
+  star3: 800
